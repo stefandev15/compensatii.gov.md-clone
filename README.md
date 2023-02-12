@@ -1,6 +1,6 @@
 # A [compensatii.gov.md](https://compensatii.gov.md/) landing page clone
 
-<p style="text-align:center;font-size:2rem;">Preview<p/>
+Preview
 <img src="screenshot.png"/>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
